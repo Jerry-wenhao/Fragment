@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="left_text_size">20sp</dimen>
+    <dimen name="android_margin_top">100dp</dimen>
+    <dimen name="java_margin_top">150dp</dimen>
+</resources>
