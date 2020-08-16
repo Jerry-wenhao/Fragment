@@ -19,8 +19,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/android_margin_top"
+        android:gravity="center_horizontal"
         android:text="@string/java_name"
-        android:textSize="@dimen/left_text_size"
         android:textAllCaps="false"
-        android:gravity="center_horizontal"/>
+        android:textSize="@dimen/left_text_size" />
 </FrameLayout>
