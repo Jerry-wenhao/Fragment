@@ -5,4 +5,7 @@
     <dimen name="java_margin_top">150dp</dimen>
     <dimen name="left_fragment_width">180dp</dimen>
     <dimen name="text_size_java">30sp</dimen>
+    <dimen name="right_android">30sp</dimen>
+    <dimen name="android_name">20dp</dimen>
+    <dimen name="android_name_top">40dp</dimen>
 </resources>
