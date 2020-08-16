@@ -12,5 +12,6 @@
         android:layout_gravity="center"
         android:text="@string/right_java"
         android:textAllCaps="false"
-        android:textSize="@dimen/text_size_java" />
+        android:textSize="@dimen/text_size_java"
+        android:background="@drawable/buttons"/>
 </FrameLayout>
