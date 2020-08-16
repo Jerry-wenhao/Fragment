@@ -7,7 +7,7 @@
     android:baselineAligned="false">
 
     <fragment
-        android:layout_width="0dp"
+        android:layout_width="@dimen/fragment"
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:name="com.xiawenhao.fragment.LeftFragment"
